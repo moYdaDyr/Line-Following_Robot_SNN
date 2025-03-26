@@ -1,4 +1,5 @@
-
+#include "Ports.h"
+#include "FRAM.h"
 
 #define DISCHARGE_POTENCIAL (5000.0f)
 
